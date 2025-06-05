@@ -1,10 +1,10 @@
-const NotFoundPage = () => {
+const ServicesPage = () => {
   return (
-    <div className="p-8 text-center">
-      <h1 className="text-6xl font-bold text-red-600">404</h1>
-      <p className="mt-4">Страница не найдена</p>
+    <div className="p-8">
+      <h1 className="text-4xl font-bold mb-6">Наши услуги</h1>
+      <p>Страница услуг</p>
     </div>
   );
 };
 
-export default NotFoundPage;
+export default ServicesPage;
