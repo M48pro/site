@@ -1,5 +1,10 @@
-const WebDevelopmentPage = () => {
-  return <div>Web Development Page</div>;
+const Settings = () => {
+  return (
+    <div className="p-8">
+      <h1 className="text-4xl font-bold mb-6">Настройки</h1>
+      <p>Управление аккаунтом, уведомлениями и темой</p>
+    </div>
+  );
 };
 
-export default WebDevelopmentPage;
+export default Settings;
