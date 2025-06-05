@@ -1,27 +1,29 @@
 {
-  "name": "m48-creative-studio",
+  "name": "vite-react-tailwind-app",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@shadcn/ui": "^0.0.4",
-    "autoprefixer": "^10.4.21",
-    "lucide-react": "^0.513.0",
-    "postcss": "^8.5.4",
+    "lucide-react": "^0.321.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-hot-toast": "^2.5.2",
-    "react-router-dom": "^6.22.3",
-    "tailwindcss": "^4.1.8"
+    "react-hot-toast": "^2.4.1",
+    "react-router-dom": "^6.22.3"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.1.8",
-    "@vitejs/plugin-react": "^4.2.0",
-    "typescript": "^5.3.3",
-    "vite": "^5.4.8"
+    "@tailwindcss/postcss": "^1.0.0",
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^4.0.2",
+    "typescript": "^5.4.5",
+    "vite": "^5.4.0"
   }
 }
