@@ -1,6 +1,5 @@
-// src/pages/services/SupportMaintenancePage.tsx
-const SupportMaintenancePage = () => {
-  return <div>Support & Maintenance Page</div>;
+const WebDevelopmentPage = () => {
+  return <div>Web Development Page</div>;
 };
 
-export default SupportMaintenancePage;
+export default WebDevelopmentPage;
