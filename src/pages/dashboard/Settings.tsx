@@ -1,5 +1,5 @@
-const Settings = () => {
-  return <div>Settings Page</div>;
+const WebDevelopmentPage = () => {
+  return <div>Web Development Page</div>;
 };
 
-export default Settings;
+export default WebDevelopmentPage;
