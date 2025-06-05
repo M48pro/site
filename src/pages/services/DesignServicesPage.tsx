@@ -1,5 +1,5 @@
-const DesignServicesPage = () => {
-  return <div>Design Services Page</div>;
+const WebDevelopmentPage = () => {
+  return <div>Web Development Page</div>;
 };
 
-export default DesignServicesPage;
+export default WebDevelopmentPage;
